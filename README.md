@@ -25,6 +25,9 @@ a, b = b, a
 print("Swapped values are:", a,b)
 
 ```
+input:
+![Screenshot (87)](https://user-images.githubusercontent.com/123623197/227853078-258fc21c-8f9d-43e6-b768-b8cec86dcde1.png)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
