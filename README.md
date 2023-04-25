@@ -19,15 +19,17 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
+#Program to find the distance between two points.
+#Developed by:jeevitha S 
+#RegisterNumber:212222100016
 a = int(input())
 b = int(input())
 a, b = b, a
 print("Swapped values are:", a,b)
 
 ```
-input:
-![Screenshot (87)](https://user-images.githubusercontent.com/123623197/227853078-258fc21c-8f9d-43e6-b768-b8cec86dcde1.png)
-
+##output:
+![image](https://user-images.githubusercontent.com/123623197/234291127-50cccc4f-43a4-470f-9864-59d29894ca44.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
