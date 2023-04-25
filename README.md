@@ -29,6 +29,7 @@ print("Swapped values are:", a,b)
 
 ```
 ##output:
+
 ![image](https://user-images.githubusercontent.com/123623197/234291127-50cccc4f-43a4-470f-9864-59d29894ca44.png)
 
 ## RESULT:
